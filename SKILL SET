@@ -30,10 +30,10 @@ Python Basics
 [✅] If/else
 [✅] Loops
 [✅] Functions
-[ ] Error handling
-[ ] File handling
-[ ] Virtual environments
-[ ] Modules & imports
+[✅] Error handling
+[✅] File handling
+[✅] Virtual environments
+[✅] Modules & imports
 [ ] Build 1 mini-project (calculator, login, notes, etc.)
 
 Web Basics
