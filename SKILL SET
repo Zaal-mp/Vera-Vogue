@@ -42,8 +42,8 @@ Web Basics
 [✅] CSS
 [✅] Basic JavaScript (DOM, Fetch API)
 [✅] JSON
-[ ] HTTP GET/POST
-[ ] Sessions & cookies (basic)
+[✅] HTTP GET/POST
+[✅] Sessions & cookies (basic)
 
 Backend (Flask)
 
