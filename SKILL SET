@@ -48,7 +48,7 @@ Web Basics
 Backend (Flask)
 
 [✅] Flask routing
-[ ] Templates
+[✅] Templates
 [ ] Forms
 [ ] Simple login system
 [ ] CRUD operations
