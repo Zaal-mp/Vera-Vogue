@@ -49,11 +49,11 @@ Backend (Flask)
 
 [✅] Flask routing
 [✅] Templates
-[ ] Forms
-[ ] Simple login system
-[ ] CRUD operations
-[ ] REST API basics
-[ ] Use SQL or MongoDB with Flask
+[✅] Forms
+[✅] Simple login system
+[✅] CRUD operations
+[✅] REST API basics
+[✅] Use SQL or MongoDB with Flask
 [ ] Deploy Flask to Render
 
 
@@ -71,11 +71,11 @@ SQL
 
 NoSQL (MongoDB)
 
-[ ] Collections
-[ ] Documents
-[ ] CRUD operations
-[ ] Basic schema design
-[ ] When to use SQL vs NoSQL
+[❎] Collections
+[❎] Documents
+[❎] CRUD operations
+[❎] Basic schema design
+[❎] When to use SQL vs NoSQL
 
 
 ---
