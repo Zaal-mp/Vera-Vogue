@@ -63,11 +63,11 @@ PHASE 2 — Databases
 
 SQL
 
-[ ] Create tables
-[ ] CRUD queries
-[ ] Joins
-[ ] Primary/foreign keys
-[ ] Index basics
+[✅] Create tables
+[✅] CRUD queries
+[✅] Joins
+[✅] Primary/foreign keys
+[✅] Index basics
 
 NoSQL (MongoDB)
 
