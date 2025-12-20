@@ -54,7 +54,7 @@ Backend (Flask)
 [✅] CRUD operations
 [✅] REST API basics
 [✅] Use SQL or MongoDB with Flask
-[ ] Deploy Flask to Render
+[✅] Deploy Flask to Render
 
 
 ---
