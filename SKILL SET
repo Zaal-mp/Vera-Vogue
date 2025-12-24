@@ -98,13 +98,13 @@ PHASE 3 — Linux (Mandatory)
 
 PHASE 4 — Git & GitHub
 
-[ ] Git init
-[ ] Commit, push, pull
-[ ] Branching
-[ ] Merge
-[ ] Resolve conflicts
-[ ] Pull Request
-[ ] GitHub Actions (CI/CD)
+[✅] Git init
+[✅] Commit, push, pull
+[✅] Branching
+[✅] Merge
+[✅] Resolve conflicts
+[✅] Pull Request
+[✅] GitHub Actions (CI/CD)
 
 
 ---
